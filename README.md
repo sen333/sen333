@@ -4,24 +4,23 @@
 </p>
 
 <h2 align="center">Hi! I am Kyle 🫡</h2>
-
-<p align="center">
-  ✍️ Third-year Computer Science Student at the University of the Philippines - Mindanao <br>
-  🔭 Head of <b>Advanced Networking and Infrastructure Department</b> @ AWSCC-UP Mindanao <br>
-  ☁️ Passionate about <b>Cloud Computing (AWS)</b> and <b>Mobile Development</b> <br>
-  🛠️ Building my own programming language <b>SNOL</b> in C++ <br>
+<p align="justify">
+  • ✍️ Third-year Computer Science Student at the University of the Philippines - Mindanao <br>
+  • 🔭 Head of <b>Advanced Networking and Infrastructure Department</b> @ AWSCC-UP Mindanao <br>
+  • ☁️ Passionate about <b>Cloud Computing (AWS)</b> and <b>Mobile Development</b> <br>
+  • 🔥 Fun Fact: I love playing FPS games and reached the highest ranks in some!
 </p>
 
 ---
 
-<h3 align="center">🧰 Languages & Tools</h3>
+<h3 align="center">🧰 Languages & Tools</h3> <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,c,cpp,python,java,javascript,php,mysql,aws,git,react,tailwind,supabase" />
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Stats</h3> <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sen333&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sen333&layout=compact&theme=tokyonight" height="150"/>
@@ -29,7 +28,7 @@
 
 ---
 
-<h3 align="center">🌐 Connect with Me</h3>
+<h3 align="center">🌐 Connect with Me</h3> <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/kyle-senoy-94098a155">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
