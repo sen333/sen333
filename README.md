@@ -34,9 +34,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kylehowardsenoy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-   <a href="https://www.facebook.com/kyyyyyyyyl">
+  <a href="https://www.facebook.com/kyyyyyyyyl">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/>
+  </a>
+   <a href="https://discord.com/users/sen_333">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"/>
   </a>
 </p>
