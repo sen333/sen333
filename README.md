@@ -6,7 +6,7 @@
 <h2 align="center">Hi! I am Kyle 🫡</h2>
 <p align="justify">
   • ✍️ Third-year Computer Science Student at the University of the Philippines - Mindanao <br>
-  • 🔭 Head of <b>Advanced Networking and Infrastructure Department</b> @ AWSCC-UP Mindanao <br>
+  • 🔭 Head of <b>Advanced Networking and Infrastructure Department</b> @ AWSSDG-UP Mindanao <br>
   • ☁️ Passionate about <b>Cloud Computing (AWS)</b> and <b>Mobile Development</b> <br>
   • 🔥 Fun Fact: I love playing FPS games and reached the highest ranks in some!
 </p>
